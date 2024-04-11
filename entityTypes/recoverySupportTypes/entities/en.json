@@ -1,0 +1,19 @@
+{
+  "entities": [ {
+    "value": "recovery support",
+    "synonyms": [ "recover", "recovery support" ],
+    "languageCode": "en"
+  }, {
+    "value": "common problems",
+    "synonyms": [ "common problems", "common problems after sepsis" ],
+    "languageCode": "en"
+  }, {
+    "value": "post sepsis",
+    "synonyms": [ "after sepsis", "post sepsis", "post sepsis syndrome" ],
+    "languageCode": "en"
+  }, {
+    "value": "FAQ",
+    "synonyms": [ "FAQ", "frequently asked question", "frequently asked questions" ],
+    "languageCode": "en"
+  } ]
+}

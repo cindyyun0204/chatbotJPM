@@ -1,0 +1,54 @@
+{
+  "name": "c592a81a-7940-4f63-94db-d610581d8b0e",
+  "displayName": "Return to Work",
+  "form": {
+  
+  },
+  "transitionRoutes": [ {
+    "intent": "Work Support Further Tips",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "If returning to work is difficult, you and your employer could consider these options:\n\n- Reduce your hours on a temporary basis and review this when you are feeling ready to do more\n- Permanently reduce your hours\n- Change your duties to ones you feel able to perform\n- Consider new employment that better meets your needs\n\nWould you want further useful links, or a live support?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "523bea5c-2727-474c-bfc8-efdaf843146f"
+  }, {
+    "intent": "Work Support Further Links",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "For more advice on issues relating to employment, visit Citizens Advice work (https://www.citizensadvice.org.uk/work/) or Citizens Advice benefits (https://www.citizensadvice.org.uk/benefits/).\n\nIt’s also a good idea to signpost your employer to information on recovering from sepsis and critical illness, such as our Survivors Information booklet (https://sepsistrust.org/wp-content/uploads/2020/06/Critical-Care-Booklet.pdf) or our Returning to Work Following Critical Illness booklet (https://sepsistrust.org/wp-content/uploads/2020/06/Employer-Critical-Illness-Guide.pdf).\n\nWould you want any further support, or a live support?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "f14c0419-deb8-4226-8447-758357d68b0e"
+  }, {
+    "intent": "Support Quit",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Thank you for using our support bot and don't forget we are always here to support.\nFeel free to visit our website (https://sepsistrust.org/) anytime!\nHave a great day :)" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "targetPage": "Start Page",
+    "name": "e3e20c0f-c14b-4995-a715-110d9404cf80"
+  }, {
+    "intent": "Live Support",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We will redirect you to a qualified nurse or a professional operator. Please wait...\n\nSupport nurse availability is normally Monday to Friday between the hours of 9.30am and 4.30pm (please note, we are closed on bank holidays). Calls or emails made out of these times will not be screened by the support nurses.\n\nIf you’re concerned that you or someone else is unwell or may have sepsis. Please call NHS 111. Or if urgent medical attention is required call 999." ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "targetPage": "END_FLOW_WITH_HUMAN_ESCALATION",
+    "name": "f0ed982f-9609-4a24-975e-75a13d86ab94"
+  } ]
+}

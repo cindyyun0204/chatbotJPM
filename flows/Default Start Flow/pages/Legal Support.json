@@ -1,0 +1,76 @@
+{
+  "name": "5c8650ee-4f49-41e6-b06e-ffb80e9d3a10",
+  "displayName": "Legal Support",
+  "form": {
+  
+  },
+  "transitionRoutes": [ {
+    "intent": "Legal Support Informal Complaints",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "In the first instance, you may want to raise your concerns, informally, with the medical staff and give them the opportunity to address your concerns. If you arrange to meet them, make sure you write all your questions down beforehand. Once you’ve had this meeting, you may feel fully satisfied with the care you or your relative/friend has received, or you may want to take your issues further.\n\nYou’re under no obligation to make a complaint informally before you make a formal complaint. However, if you believe something has gone wrong with the healthcare provided to you or a loved one, it’s almost always best to discuss your concerns with the medical staff as soon as possible, especially if your main aim is to have something put right urgently.\n\nDo you need any further support, or a live support?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "fa2e02fb-2460-4260-b68b-28692e84d623"
+  }, {
+    "intent": "Support Quit",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Thank you for using our support bot and don't forget we are always here to support.\nFeel free to visit our website (https://sepsistrust.org/) anytime!\nHave a great day :)" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "targetPage": "Start Page",
+    "name": "f4fb4ba4-d1ad-4b9a-acc8-e1811871ad8d"
+  }, {
+    "intent": "Legal Support Help with Complaints",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "The Patient Advice and Liaison Service (PALS) offer confidential advice, support and information on health-related matters. Every hospital has a PALS officer you can talk to – you can contact them by phoning the hospital or reach them through NHS Choices.\n\nPALS basically provide a point of contact for patients, their families and carers. The help they offer is quite extensive – including information about the NHS’ complaints procedure, how to get independent help if you want to make a complaint, and they also signpost to support groups outside the NHS. In addition, they help to improve the overall NHS service by listening to your concerns and suggestions and feeding this back into the system.\n\nWould you want any further support, or a live support?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "20cf0f5e-5b07-4848-8e43-1cd029710ff4"
+  }, {
+    "intent": "Legal Support Legal Advice",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "If you’re considering taking legal action, we have a panel of carefully selected solicitors who may help you get the specific support or advice you need. If you’d like to hear John McCarthy’s sepsis story and his first-hand experience of working with a law firm please click on the following link: https://sepsistrust.org/johns-story/\n\nWould you want any further support, or a live support?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "7ba8055e-1e29-4a5d-a60b-6311b881fc78"
+  }, {
+    "intent": "Legal Support FAQ",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Details of our legal partners can be found after the FAQ’s which they have compiled here: https://sepsistrust.org/get-support/support/legal-advice/\n\nWould you want any further support, or a live support?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "77052211-fe27-440e-b6de-435a261ff11e"
+  }, {
+    "intent": "Live Support",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We will redirect you to a qualified nurse or a professional operator. Please wait...\n\nSupport nurse availability is normally Monday to Friday between the hours of 9.30am and 4.30pm (please note, we are closed on bank holidays). Calls or emails made out of these times will not be screened by the support nurses.\n\nIf you’re concerned that you or someone else is unwell or may have sepsis. Please call NHS 111. Or if urgent medical attention is required call 999." ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "targetPage": "END_FLOW_WITH_HUMAN_ESCALATION",
+    "name": "927d3ffc-4f0a-40d6-bf66-7d3f61b53468"
+  } ]
+}

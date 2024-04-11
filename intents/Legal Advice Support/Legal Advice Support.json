@@ -1,0 +1,11 @@
+{
+  "name": "eddf0bd9-6638-413e-b159-3c74325c64e7",
+  "displayName": "Legal Advice Support",
+  "parameters": [ {
+    "id": "returnsupporttypes",
+    "entityType": "@returnSupportTypes"
+  } ],
+  "priority": 500000,
+  "description": "Triggers when user asks for a general legal support",
+  "numTrainingPhrases": 5
+}

@@ -1,0 +1,58 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "I want ",
+      "auto": true
+    }, {
+      "text": "law advice",
+      "parameterId": "returnsupporttypes",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "law ",
+      "auto": true
+    }, {
+      "text": "advice",
+      "parameterId": "returnsupporttypes",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "legal advice",
+      "parameterId": "returnsupporttypes",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want ",
+      "auto": true
+    }, {
+      "text": "legal advice",
+      "parameterId": "returnsupporttypes",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want ",
+      "auto": true
+    }, {
+      "text": "legal advice",
+      "parameterId": "returnsupporttypes",
+      "auto": true
+    }, {
+      "text": " support",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

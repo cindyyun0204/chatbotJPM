@@ -1,0 +1,44 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "recover help",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "recover",
+      "parameterId": "recoverysupporttypes",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "recovery help",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "recovery support",
+      "parameterId": "recoverysupporttypes",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want ",
+      "auto": true
+    }, {
+      "text": "recovery support",
+      "parameterId": "recoverysupporttypes",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

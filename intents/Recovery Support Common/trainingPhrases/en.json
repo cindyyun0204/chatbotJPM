@@ -1,0 +1,100 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "I want to know about ",
+      "auto": true
+    }, {
+      "text": "common issues",
+      "parameterId": "recoverysupporttypes",
+      "auto": true
+    }, {
+      "text": " after sepsis",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "common issues",
+      "parameterId": "recoverysupporttypes",
+      "auto": true
+    }, {
+      "text": " after sepsis",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to know about ",
+      "auto": true
+    }, {
+      "text": "common problems",
+      "parameterId": "recoverysupporttypes",
+      "auto": true
+    }, {
+      "text": " after sepsis",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "common problems",
+      "parameterId": "recoverysupporttypes",
+      "auto": true
+    }, {
+      "text": " after sepsis",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "common problems",
+      "parameterId": "recoverysupporttypes",
+      "auto": true
+    }, {
+      "text": " after recovering from sepsis",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "common problems",
+      "parameterId": "recoverysupporttypes",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "common issues",
+      "parameterId": "recoverysupporttypes",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want to know about ",
+      "auto": true
+    }, {
+      "text": "common problems",
+      "parameterId": "recoverysupporttypes",
+      "auto": true
+    }, {
+      "text": " after ",
+      "auto": true
+    }, {
+      "text": "recovering",
+      "auto": true
+    }, {
+      "text": " from sepsis",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

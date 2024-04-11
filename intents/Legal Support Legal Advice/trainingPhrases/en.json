@@ -1,0 +1,61 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "I need ",
+      "auto": true
+    }, {
+      "text": "legal help",
+      "parameterId": "legalSupportTypes",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I need ",
+      "auto": true
+    }, {
+      "text": "legal support",
+      "parameterId": "legalSupportTypes",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "law ",
+      "auto": true
+    }, {
+      "text": "help",
+      "parameterId": "legalSupportTypes",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "legal help",
+      "parameterId": "legalSupportTypes",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "law",
+      "parameterId": "geo-city",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I need help with "
+    }, {
+      "text": "legal support",
+      "parameterId": "legalSupportTypes"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

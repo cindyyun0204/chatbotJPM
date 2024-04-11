@@ -1,0 +1,69 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "more ",
+      "auto": true
+    }, {
+      "text": "tips",
+      "parameterId": "worksupportfurther",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want more ",
+      "auto": true
+    }, {
+      "text": "tips",
+      "parameterId": "worksupportfurther",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want working ",
+      "auto": true
+    }, {
+      "text": "tips",
+      "parameterId": "worksupportfurther",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "working ",
+      "auto": true
+    }, {
+      "text": "tips",
+      "parameterId": "worksupportfurther",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "work ",
+      "auto": true
+    }, {
+      "text": "tips",
+      "parameterId": "worksupportfurther",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want ",
+      "auto": true
+    }, {
+      "text": "tips",
+      "parameterId": "worksupportfurther",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

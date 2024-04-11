@@ -1,0 +1,11 @@
+{
+  "name": "ceda1324-c2d5-4325-890e-e03f5c4b376c",
+  "displayName": "Recovery Support Recovery",
+  "parameters": [ {
+    "id": "recoverysupporttypes",
+    "entityType": "@recoverySupportTypes"
+  } ],
+  "priority": 500000,
+  "description": "triggers when user wants support regarding recovering from sepsis",
+  "numTrainingPhrases": 5
+}

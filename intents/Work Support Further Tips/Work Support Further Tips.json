@@ -1,0 +1,11 @@
+{
+  "name": "6d937560-ba3c-48df-930f-75aed58def1c",
+  "displayName": "Work Support Further Tips",
+  "parameters": [ {
+    "id": "worksupportfurther",
+    "entityType": "@workSupportFurther"
+  } ],
+  "priority": 500000,
+  "description": "triggers when user enters if they want further support - tips regarding getting back to work",
+  "numTrainingPhrases": 6
+}

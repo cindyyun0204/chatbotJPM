@@ -1,0 +1,7 @@
+{
+  "name": "5d163b99-d444-4783-9685-51df210f58ab",
+  "displayName": "Live Support",
+  "priority": 500000,
+  "description": "triggers when a user wants live support with a nurse or a professional operator",
+  "numTrainingPhrases": 7
+}

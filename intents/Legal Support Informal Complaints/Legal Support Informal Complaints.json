@@ -1,0 +1,11 @@
+{
+  "name": "60f55a8c-eb3f-4a56-b7e6-8a1435350558",
+  "displayName": "Legal Support Informal Complaints",
+  "parameters": [ {
+    "id": "legalsupporttypes",
+    "entityType": "@legalSupportFurther"
+  } ],
+  "priority": 500000,
+  "description": "triggered when user wants support regarding 'informal complaints'",
+  "numTrainingPhrases": 6
+}

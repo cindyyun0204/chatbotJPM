@@ -1,0 +1,15 @@
+{
+  "entities": [ {
+    "value": "tips",
+    "synonyms": [ "tips", "Tips", "TIPS" ],
+    "languageCode": "en"
+  }, {
+    "value": "further links",
+    "synonyms": [ "further links", "further Links", "Further links", "Further Links", "FURTHER LINKS", "links" ],
+    "languageCode": "en"
+  }, {
+    "value": "nothing",
+    "synonyms": [ "no further support", "no further Support", "no Further support", "no Further Support", "No further support", "No further Support", "No Further support", "No Further Support", "NO FURTHER SUPPORT", "nothing", "Nothing", "NOTHING" ],
+    "languageCode": "en"
+  } ]
+}

@@ -1,0 +1,15 @@
+{
+  "entities": [ {
+    "value": "return to work",
+    "synonyms": [ "return to work", "return to Work", "Return to work", "Return to Work", "Return To Work", "RETURN TO WORK" ],
+    "languageCode": "en"
+  }, {
+    "value": "financial worries",
+    "synonyms": [ "financial worries", "financial Worries", "Financial worries", "Financial Worries", "FINANCIAL WORRIES" ],
+    "languageCode": "en"
+  }, {
+    "value": "legal advice",
+    "synonyms": [ "legal advice", "legal Advice", "Legal advice", "Legal Advice", "LEGAL ADVICE" ],
+    "languageCode": "en"
+  } ]
+}

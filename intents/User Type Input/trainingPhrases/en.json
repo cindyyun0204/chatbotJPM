@@ -1,0 +1,86 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "I am a ",
+      "auto": true
+    }, {
+      "text": "family",
+      "parameterId": "usertype",
+      "auto": true
+    }, {
+      "text": "/",
+      "auto": true
+    }, {
+      "text": "carer",
+      "parameterId": "usertype",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "family",
+      "parameterId": "usertype",
+      "auto": true
+    }, {
+      "text": "/",
+      "auto": true
+    }, {
+      "text": "carer",
+      "parameterId": "usertype",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "family",
+      "parameterId": "usertype",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "carer",
+      "parameterId": "usertype",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "recovering patient"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I am a ",
+      "auto": true
+    }, {
+      "text": "carer",
+      "parameterId": "usertype",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I am a ",
+      "auto": true
+    }, {
+      "text": "family",
+      "parameterId": "usertype",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I am a recovering patient"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

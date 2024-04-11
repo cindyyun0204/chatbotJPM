@@ -1,0 +1,11 @@
+{
+  "name": "b3072b87-bddf-44cd-ac73-1190d24cca23",
+  "displayName": "Financial Worries Support",
+  "parameters": [ {
+    "id": "returnsupporttypes",
+    "entityType": "@returnSupportTypes"
+  } ],
+  "priority": 500000,
+  "description": "Triggers when the user specifies they want support regarding 'financial worries'",
+  "numTrainingPhrases": 7
+}

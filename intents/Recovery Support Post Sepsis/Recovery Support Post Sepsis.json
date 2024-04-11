@@ -1,0 +1,11 @@
+{
+  "name": "244b3eb5-50db-45cf-b309-7187b77291ae",
+  "displayName": "Recovery Support Post Sepsis",
+  "parameters": [ {
+    "id": "recoverysupporttypes",
+    "entityType": "@recoverySupportTypes"
+  } ],
+  "priority": 500000,
+  "description": "triggers when user wants post sepsis symptoms support",
+  "numTrainingPhrases": 7
+}

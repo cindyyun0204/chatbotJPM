@@ -1,0 +1,15 @@
+{
+  "entities": [ {
+    "value": "patient",
+    "synonyms": [ "patient" ],
+    "languageCode": "en"
+  }, {
+    "value": "recovering patient",
+    "synonyms": [ "survivor" ],
+    "languageCode": "en"
+  }, {
+    "value": "family",
+    "synonyms": [ "carer", "family" ],
+    "languageCode": "en"
+  } ]
+}

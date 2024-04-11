@@ -1,0 +1,11 @@
+{
+  "name": "b0dc4d9e-952d-4e4e-94ed-0e45319e0130",
+  "displayName": "Return to Work Support",
+  "parameters": [ {
+    "id": "returnsupporttypes",
+    "entityType": "@returnSupportTypes"
+  } ],
+  "priority": 500000,
+  "description": "Triggers when user asks for a 'return to work' support.",
+  "numTrainingPhrases": 5
+}

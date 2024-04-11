@@ -1,0 +1,23 @@
+{
+  "name": "bb77ae61-4eaf-4b91-b660-402d2abf9fe4",
+  "displayName": "Support Start Page",
+  "form": {
+  
+  },
+  "entryFulfillment": {
+  
+  },
+  "transitionRoutes": [ {
+    "intent": "User Type Input",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Nice to meet you! How could I assist you today?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "targetPage": "Support Type",
+    "name": "b4a8cf82-1552-4ddc-9d14-4c3936be9ff9"
+  } ]
+}

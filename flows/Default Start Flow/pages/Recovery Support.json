@@ -1,0 +1,65 @@
+{
+  "name": "6fc10102-4372-4667-bef3-c70505ff68f0",
+  "displayName": "Recovery Support",
+  "form": {
+  
+  },
+  "transitionRoutes": [ {
+    "intent": "Recovery Support Common",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Many people will find recovering from sepsis difficult and can have a number of symptoms develop in the weeks or months after they leave hospital.\n\nCommon symptoms people suffer fall into three categories: physical, psychological, and cognitive.\n\nThe physical symptoms are:\n\n- Lethargy/excessive tiredness\n- Poor mobility/muscle weakness\n- Breathlessness/chest pains\n- Swollen limbs (excessive fluid in the tissues)\n- Joint and muscle pains\n- Insomnia\n- Hair loss\n- Dry/flaking skin and nails\n- Taste changes\n- Poor appetite\n- Changes in vision\n- Changes in sensation in limbs\n- Repeated infections from the original site or a new infection\n- Reduced kidney function\n- Feeling cold\n- Excessive sweating\n- The psychological and cognitive symptoms are:\n\nAnxiety/fear of sepsis recurring\n- Depression\n- Flashbacks\n- Nightmares\n- Insomnia (due to stress or anxiety)\n- PTSD (Post Traumatic Stress Disorder)\n- Poor concentration\n- Short term memory loss\n- Mood swings\n\nWould you want to have a look at our FAQ, or want further support, or a live support?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "5b3bbb7c-9025-4f34-8bd9-9172e980bad8"
+  }, {
+    "intent": "Recovery Support Post Sepsis",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Some people may find their recovery from sepsis is longer and more problematic than expected and can encounter all or a variety of the symptoms listed above.\nPost Sepsis Syndrome (PSS) describes a variable set of ongoing issues that people encounter for a prolonged period of time following sepsis.\n\nNot everyone who gets sepsis will get PSS, but it can impact anyone regardless of their age or their health before they became ill.\n\nWould you want to have a look at our FAQ, or want further support, or a live support?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "1a17a258-248d-434d-9de5-f6b74c2a916b"
+  }, {
+    "intent": "Recovery Support FAQ",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "You can have a look at our FAQ here: https://sepsistrust.org/get-support/support/support-for-survivors/post-sepsis-syndrome/\n\nWould you want any further support, or a live support?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "a5951c09-0d03-4a39-af7f-2d1e53b77b3f"
+  }, {
+    "intent": "Support Quit",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Thank you for using our support bot and don't forget we are always here to support.\nFeel free to visit our website (https://sepsistrust.org/) anytime!\nHave a great day :)" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "targetPage": "Start Page",
+    "name": "8b22fbd8-312f-47da-a607-4640a629fa39"
+  }, {
+    "intent": "Live Support",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We will redirect you to a qualified nurse or a professional operator. Please wait...\n\nSupport nurse availability is normally Monday to Friday between the hours of 9.30am and 4.30pm (please note, we are closed on bank holidays). Calls or emails made out of these times will not be screened by the support nurses.\n\nIf you’re concerned that you or someone else is unwell or may have sepsis. Please call NHS 111. Or if urgent medical attention is required call 999." ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "targetPage": "END_FLOW_WITH_HUMAN_ESCALATION",
+    "name": "7c28911c-9ce8-4b57-bc40-7fe2ed09b82e"
+  } ]
+}

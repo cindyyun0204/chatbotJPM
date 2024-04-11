@@ -1,0 +1,14 @@
+{
+  "name": "2084ed6a-3b7c-4378-aa48-f3cd72b07157",
+  "displayName": "Legal Support FAQ",
+  "parameters": [ {
+    "id": "legalsupporttypes",
+    "entityType": "@legalSupportFurther"
+  }, {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  } ],
+  "priority": 500000,
+  "description": "triggered when user wants 'faq' for legal support",
+  "numTrainingPhrases": 6
+}

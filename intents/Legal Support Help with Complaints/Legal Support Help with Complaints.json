@@ -1,0 +1,11 @@
+{
+  "name": "20e7a8ec-6115-4c55-9f20-eaffd95123ad",
+  "displayName": "Legal Support Help with Complaints",
+  "parameters": [ {
+    "id": "legalsupporttypes",
+    "entityType": "@legalSupportFurther"
+  } ],
+  "priority": 500000,
+  "description": "triggered when user wants 'help with complaints'",
+  "numTrainingPhrases": 6
+}

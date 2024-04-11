@@ -1,0 +1,79 @@
+{
+  "name": "7207729f-53dd-44e9-8d08-389f3c381c0e",
+  "displayName": "Support Type",
+  "form": {
+  
+  },
+  "transitionRoutes": [ {
+    "intent": "Financial Worries Support",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Sure, I am happy to assist.\n\nFinances may be stretched while you are recovering. Many employers will continue paying your salary for several months and then ask for your situation to be reviewed. Others will only pay for a few weeks. Some people will have to rely on statutory sick pay.\n\nThe government now provides a benefit called ‘Personal Independence Payment (PIP)’ which is designed for people who have experienced a life changing illness or disability. However, you can only claim after a three-month period from the start of your illness.\n\nCitizens Advice benefits web pages (https://www.citizensadvice.org.uk/benefits/) provide lots of useful information on claiming benefits and in some cases will assist with claims and form filling.\n\nWould you like any other support, or a live support?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "name": "c9e579a2-af26-4a68-9db8-e2b6f0fa1073"
+  }, {
+    "intent": "Support Quit",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Thank you for using our support bot and don't forget we are always here to support.\nFeel free to visit our website (https://sepsistrust.org/) anytime!\nHave a great day :)" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "targetPage": "End Session",
+    "name": "7655c73b-cad4-4312-8fd0-920a0e818bc4"
+  }, {
+    "intent": "Legal Advice Support",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Sure, I will happily assist you.\n\nIf you require any legal guidance on anything employment or finance related, we have a panel of carefully selected solicitors (https://sepsistrust.org/get-support/support/legal-advice/) who may help you get the specific support or advice you need.\n\nIf you or your relative/friend has become critically ill very quickly, you may feel like you haven’t received enough information. Often people haven’t understood what’s happening or why it has happened. If this is how you feel, there are a number of options to consider.\n\nWould you want further support, such as informal complaints, complaint support, legal advice, FAQs, or a live support?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "targetPage": "Legal Support",
+    "name": "422efa71-0a18-4b9b-b542-ff8b71b90883"
+  }, {
+    "intent": "Recovery Support Recovery",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "You may find it helpful to attend our online or face-to-face sepsis recovery support groups (https://sepsistrust.org/get-support/support/my-local-group/).\n\nThese sessions operate on a peer-support model, where you and your loved ones can discuss any challenges you might have encountered with your recovery journey.\n\nWeakness, fatigue, tiredness, and cognitive issues are all common symptoms people experience after having sepsis – which can make returning to work difficult, or even impossible.\n\nWe have a dedicated advice page on returning to work, and dealing with financial worries (https://sepsistrust.org/get-support/support/support-for-survivors/returning-to-work-and-financial-worries/).\n\nWould you want to have a look at our FAQ, or require any further support, such as common problems after sepsis and post-sepsis syndrome, or a live support?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "targetPage": "Recovery Support",
+    "name": "0f793f77-3f0e-4453-ad29-df65912664ba"
+  }, {
+    "intent": "Return to Work Support",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "Sure, I will happily assist you.\n\nGoing back to work can be a really daunting prospect! Some of the problems that occur after sepsis, such as fatigue or poor memory, can make resuming work difficult or impossible. You may also have lost confidence and may still have outpatient appointments to attend.\n\nMost employers will be happy to allow you to start back on reduced hours, gradually increasing them until you are feeling fit enough to work your usual hours (this is known as a phased return).\n\nWould you want additional tips, further links, or a live support?" ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "targetPage": "Return to Work",
+    "name": "168cc5db-d076-4ac6-b6cb-7e9096216713"
+  }, {
+    "intent": "Live Support",
+    "triggerFulfillment": {
+      "messages": [ {
+        "text": {
+          "text": [ "We will redirect you to a qualified nurse or a professional operator. Please wait...\n\nSupport nurse availability is normally Monday to Friday between the hours of 9.30am and 4.30pm (please note, we are closed on bank holidays). Calls or emails made out of these times will not be screened by the support nurses.\n\nIf you’re concerned that you or someone else is unwell or may have sepsis. Please call NHS 111. Or if urgent medical attention is required call 999." ]
+        },
+        "languageCode": "en"
+      } ]
+    },
+    "targetPage": "END_FLOW_WITH_HUMAN_ESCALATION",
+    "name": "3b83e122-5f29-4c2d-851a-2027b67a8590"
+  } ]
+}

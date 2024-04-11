@@ -1,0 +1,50 @@
+{
+  "trainingPhrases": [ {
+    "parts": [ {
+      "text": "return to work",
+      "parameterId": "returnsupporttypes",
+      "auto": true
+    }, {
+      "text": " support",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "return to work",
+      "parameterId": "returnsupporttypes",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "work",
+      "parameterId": "returnsupporttypes"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "job",
+      "parameterId": "returnsupporttypes"
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  }, {
+    "parts": [ {
+      "text": "I want a ",
+      "auto": true
+    }, {
+      "text": "return to work",
+      "parameterId": "returnsupporttypes",
+      "auto": true
+    }, {
+      "text": " support",
+      "auto": true
+    } ],
+    "repeatCount": 1,
+    "languageCode": "en"
+  } ]
+}

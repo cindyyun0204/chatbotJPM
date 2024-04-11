@@ -1,0 +1,19 @@
+{
+  "entities": [ {
+    "value": "informal complaints",
+    "synonyms": [ "informal complaints", "informal Complaints", "Informal complaints", "Informal Complaints", "INFORMAL COMPLAINTS" ],
+    "languageCode": "en"
+  }, {
+    "value": "help with complaints",
+    "synonyms": [ "complaint help", "complaints help", "help with complaints", "help with Complaints", "help With complaints", "help With Complaints", "Help with complaints", "Help with Complaints", "Help With complaints", "Help With Complaints", "HELP WITH COMPLAINTS" ],
+    "languageCode": "en"
+  }, {
+    "value": "FAQ",
+    "synonyms": [ "faq", "Faq", "FAQ", "frequently asked question", "frequently asked questions" ],
+    "languageCode": "en"
+  }, {
+    "value": "legal advice",
+    "synonyms": [ "legal advice", "legal Advice", "Legal advice", "Legal Advice", "LEGAL ADVICE", "legal support" ],
+    "languageCode": "en"
+  } ]
+}

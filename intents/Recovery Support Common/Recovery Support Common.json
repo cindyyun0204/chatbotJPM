@@ -1,0 +1,11 @@
+{
+  "name": "b5291b3c-bc17-45f7-8e00-fb115ea27615",
+  "displayName": "Recovery Support Common",
+  "parameters": [ {
+    "id": "recoverysupporttypes",
+    "entityType": "@recoverySupportTypes"
+  } ],
+  "priority": 500000,
+  "description": "triggers when user wants support regarding 'common problems after sepsis'",
+  "numTrainingPhrases": 8
+}

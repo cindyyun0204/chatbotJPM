@@ -1,0 +1,14 @@
+{
+  "name": "dc99c704-4b03-45a0-95fc-1a3842b19d12",
+  "displayName": "Legal Support Legal Advice",
+  "parameters": [ {
+    "id": "legalSupportTypes",
+    "entityType": "@legalSupportFurther"
+  }, {
+    "id": "geo-city",
+    "entityType": "@sys.geo-city"
+  } ],
+  "priority": 500000,
+  "description": "triggered when user wants support regarding legal advice",
+  "numTrainingPhrases": 6
+}

@@ -1,0 +1,7 @@
+{
+  "name": "0557f0e2-c88e-4571-90c2-bc698f9cc686",
+  "displayName": "Support Quit",
+  "priority": 500000,
+  "description": "triggers when user doesn't want any further support",
+  "numTrainingPhrases": 6
+}

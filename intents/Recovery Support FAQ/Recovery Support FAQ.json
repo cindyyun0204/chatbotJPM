@@ -1,0 +1,11 @@
+{
+  "name": "0e9f0927-a784-4219-8b58-41aa1cfece2b",
+  "displayName": "Recovery Support FAQ",
+  "parameters": [ {
+    "id": "legalsupportfurther",
+    "entityType": "@recoverySupportTypes"
+  } ],
+  "priority": 500000,
+  "description": "triggers when user wants FAQ for recovery support",
+  "numTrainingPhrases": 7
+}

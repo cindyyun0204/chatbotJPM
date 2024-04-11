@@ -1,0 +1,11 @@
+{
+  "name": "232feb25-9434-40c2-9222-29fb0a48a945",
+  "displayName": "User Type Input",
+  "parameters": [ {
+    "id": "usertype",
+    "entityType": "@userType"
+  } ],
+  "priority": 500000,
+  "description": "user defines themselves within: family/carer \u0026 recovering patient",
+  "numTrainingPhrases": 8
+}
